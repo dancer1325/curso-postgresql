@@ -2,7 +2,7 @@
 
 # ¿Qué es esto?
 
-Una serie de ejercicios para un curso de PostgreSQL.
+Una serie de ejercicios para el curso de PostgreSQL de [OpenWebinars](https://openwebinars.net)
 
 # Requisitos
 
