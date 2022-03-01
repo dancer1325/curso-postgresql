@@ -8,5 +8,4 @@
   * Start Vagrant based on the Vagrantfile
 * `vagrant ssh`
   * Access to the new launched machine
-* Go to https://www.postgresql.org/download/, and check your OS, and follow the steps indicated
-  * [MAC M1 with Fedora] TODO: Solution not found to install it, following these steps https://www.postgresql.org/download/linux/redhat/
+  * 
