@@ -1,4 +1,7 @@
 FROM fedora:latest
+
+# Add environment variable container:docker
+# I don't know how it works in the background, but without this environment variable, 'vagrant up' doesn't finish never
 ENV container docker
 # Perform a package update
 RUN dnf -y update
