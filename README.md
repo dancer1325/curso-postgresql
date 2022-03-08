@@ -11,6 +11,7 @@ Una serie de ejercicios para el curso de PostgreSQL de [OpenWebinars](https://op
 - Una versión reciente de VirtualBox (https://www.virtualbox.org/wiki/Downloads)
   * [MAC M1] It isn't available VirtualBox, so Docker will be used. So next steps will be necessaries following https://betterprogramming.pub/managing-virtual-machines-under-vagrant-on-a-mac-m1-aebc650bc12c
     * `mkdir src`
+    * `cd src`
     * `git clone https://github.com/gdraheim/docker-systemctl-replacement.git`
     * `cd ..`
     * Create the Dockerfile added into the subdirectory 'instalacion-dsitribucion/MACM1', and run 
